@@ -1,0 +1,18 @@
+.errorInput{
+   border-color: red;
+}
+
+.spInvisible{
+	display: none;
+}
+
+
+.spAlert{
+	color: yellow;
+}
+
+.capRED{
+	color: red;
+	font:menu;
+	font-size: 15px;
+}
