@@ -34,8 +34,7 @@ while ($fila=mysqli_fetch_row($resultado)) {
 	echo $fila[$i];
 	echo "</td>";	
     }
-    echo "<br>";
-    echo "<td><img src='../img/logo.png'  onclick=\"verID($fila[0])\"></td>";
+    echo "<td><img src='../img/EditIcon.png'  onclick=\"verID($fila[0])\"></td>";
     echo"</tr>";
 
 }

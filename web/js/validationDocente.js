@@ -1,4 +1,4 @@
-alert(entra);
+
 var button = document.getElementById("btnRegMod");
 var nombre = document.getElementById("id_nombre");
 var app1 = document.getElementById("id_apellido1");

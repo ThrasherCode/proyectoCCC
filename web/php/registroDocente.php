@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -20,6 +18,7 @@
       include 'cabeceraPrincipal.php';
       include 'barraMenu.php';
       include 'formDocente.php';
+      include 'tablaDocente.php';
     ?>
 
         <!-- cdn Jquery libraries  -->
